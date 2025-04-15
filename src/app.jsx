@@ -1,3 +1,6 @@
+npm create vite@latest new-digital-media --template react
+cd new-digital-media
+npm install
 import React from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
